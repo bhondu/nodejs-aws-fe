@@ -1,17 +1,6 @@
-## Task 2
-1. Manual deploy
-   - the bucket should show 403 as the policy was changed by automated deploy: 
-   http://bhondu-rs-app-bucket1.s3-website-eu-west-1.amazonaws.com/
-2. Serverless-finch
-    - cloudfront distribution: 
-    https://d36x6zee1yx7ip.cloudfront.net/   
-3. Serverless single page app
-    - Automatically created bucket:
-    http://bhondu-rs-app-bucket2.s3-website-us-east-1.amazonaws.com/
-    - Automatically deployed CloudFround distribution (link obtained by `sls domainInfo`): 
-    https://decd5wcltd1vz.cloudfront.net
-  
-
+## NodeJS in AWS 2020 - RSSchool
+[Schedule](https://docs.google.com/spreadsheets/d/1sqRkuaDStMT5TnLiU1GIT4hyDSDn8dYLk892QOo9QRo/edit#gid=0)  
+[QA List](https://docs.google.com/spreadsheets/d/1jzhWxrBIqmXo0ZFBvdt-fd2stoabvVtdkd1QBbqGygQ/edit#gid=1262711805)
 
 ## Available Scripts
 
